@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{59FDDE8F-530C-E389-A576-5EDC8FD89AA8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Game Scripts/PixelGunGameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Launch Scripts/LaunchManager.cs" Line="73" Column="6" />
+      <File FileName="Assets/Scripts/Launch Scripts/PlayerNameInputManager.cs" />
+      <File FileName="Assets/Scripts/Game Scripts/PixelGunGameManager.cs" Line="65" Column="1" />
+      <File FileName="Assets/Scripts/Game Scripts/MovementController.cs" />
+      <File FileName="Assets/Scripts/Game Scripts/PlayerSetup.cs" />
+      <File FileName="Assets/Scripts/Game Scripts/Shooting.cs" />
+      <File FileName="Assets/Scripts/Game Scripts/TakingDamage.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PhotonDemo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Game Scripts" expanded="True">
+                  <Node name="PixelGunGameManager.cs" selected="True" />
+                </Node>
+                <Node name="Launch Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="394354d4-b82b-4678-b507-5d2872e4bd94" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
